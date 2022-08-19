@@ -1,4 +1,5 @@
 <h1 align="center"> ¡Hola Soy Novaks! </h1>
+(img align="right" alt="Codificación" width="400" src="https://c.tenor.com/NRISgv7urE8AAAAC/killua-zoldyck-hunter-x-hunter.gif.")
 <h3 align="center">Soy un developer en aprendizaje, actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novaksiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="novaksiscoding" /> </p>
