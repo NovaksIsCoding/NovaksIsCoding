@@ -13,7 +13,7 @@
 
 - GreatVerification: **[NovaksIsCoding/GreatHouse](https://github.com/NovaksIsCoding/GreatHouse)**
 - Autority: **[Autority](https://github.com/NovaksIsCoding/Autority)**
-- Colaboro con: **https://github.com/ImGuille20**
+- Colaboro con: **[Guille](https://github.com/ImGuille20)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
