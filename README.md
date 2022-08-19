@@ -1,5 +1,5 @@
-<img src="https://33.media.tumblr.com/9125939bda471a17122a123e12d44c79/tumblr_nburh42BSR1rbrys3o1_r2_500.gif"  />
-<h1 align="center"> ¡Hola Soy Novaks! </h1>
+<h1 align="center"> ¡Hola Soy Novaks! </h1> <img src="https://33.media.tumblr.com/9125939bda471a17122a123e12d44c79/tumblr_nburh42BSR1rbrys3o1_r2_500.gif" width="40" height="40" />
+
 <h3 align="center">Soy un developer en aprendizaje, actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novaksiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="novaksiscoding" /> </p>
