@@ -1,5 +1,5 @@
+<img src="https://github.com/NovaksIsCoding/NovaksIsCoding/blob/main/killua-hunter-x-hunter.gif" width="140" height="140" />
 <h1 align="center"> ¡Hola Soy Novaks! </h1>
-<img src="https://github.com/NovaksIsCoding/NovaksIsCoding/blob/main/a14d58e39c3d9d59bee3a6d887d197e9.gif" width="140" height="140" />
 <h3 align="center">Soy un developer en aprendizaje, actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novaksiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="novaksiscoding" /> </p>
