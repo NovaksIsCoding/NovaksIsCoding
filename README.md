@@ -1,4 +1,5 @@
-<h1 align="center"> ¡Hola Soy Novaks!  <img src="https://33.media.tumblr.com/9125939bda471a17122a123e12d44c79/tumblr_nburh42BSR1rbrys3o1_r2_500.gif" width="140" height="140" /> </h1>
+<img src="https://33.media.tumblr.com/9125939bda471a17122a123e12d44c79/tumblr_nburh42BSR1rbrys3o1_r2_500.gif" width="1080" height="1080" />
+<h1 align="center"> ¡Hola Soy Novaks! </h1>
 
 <h3 align="center">Soy un developer en aprendizaje, actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
 
