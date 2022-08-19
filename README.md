@@ -8,7 +8,7 @@
 <h3 align="center">Estoy trabajando como programador de varios bots, igualmente estoy ganando experiencia como programador de videojuegos.</h3>
 
 - Contribuciones:
-- GreatVerification (Bot de discord con diferentes funcionalidades, ): **?**
+- GreatVerification (Bot de discord con diferentes funcionalidades, ): **NovaksIsCoding/GreatVerification**
 - Fivme Scripts Creator: **?**
 - 
 
