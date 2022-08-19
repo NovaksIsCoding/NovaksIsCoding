@@ -1,4 +1,4 @@
-<img src="https://github.com/NovaksIsCoding/NovaksIsCoding/blob/main/killua-hunter-x-hunter.gif" width="140" height="140" />
+<img src="https://github.com/NovaksIsCoding/NovaksIsCoding/blob/main/killua-hunter-x-hunter.gif"  />
 <h1 align="center"> ¡Hola Soy Novaks! </h1>
 <h3 align="center">Soy un developer en aprendizaje, actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
 
