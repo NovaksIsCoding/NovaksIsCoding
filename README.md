@@ -5,6 +5,8 @@
 
 - Puedes contactarme por medio de mi correo: **novakssteam@gmail.com**
 
+<h3 align="center">Estoy trabajando como programador de varios bots, igualmente estoy ganando experiencia como programador de videojuegos.</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/novaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="novaks" height="30" width="40" /></a>
