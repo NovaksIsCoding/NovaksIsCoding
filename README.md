@@ -1,9 +1,9 @@
-<h1 align="center">Hola soy Novaks</h1>
-<h3 align="center">Soy un developer en aprendizaje,actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
+<h1 align="center">Hola Soy Novaks!</h1>
+<h3 align="center">Soy un developer en aprendizaje, actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novaksiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="novaksiscoding" /> </p>
 
-- 📫 How to reach me **novakssteam@gmail.com**
+- Puedes contactarme por medio de mi correo: **novakssteam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
