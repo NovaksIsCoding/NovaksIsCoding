@@ -7,10 +7,10 @@
 
 <h3 align="center">Estoy trabajando como programador de varios bots, igualmente estoy ganando experiencia como programador de videojuegos.</h3>
 
-<h3 align="ñeft">Contribuciones:</h3>
+<h3 align="ñeft">Contribuciones/Creaciones:</h3>
 
-- GreatVerification (Bot de discord con diferentes funcionalidades, ): **NovaksIsCoding/GreatVerification**
-- Fivme Scripts Creator: **?**
+- GreatVerification: **NovaksIsCoding/GreatVerification**
+- : **?**
 - 
 
 <h3 align="left">Connect with me:</h3>
