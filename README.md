@@ -11,7 +11,8 @@
 
 <h3 align="ñeft">Contribuciones/Creaciones:</h3>
 
-- GreatHouse: **[NovaksIsCoding/GreatHouse](https://github.com/NovaksIsCoding/GreatHouse)**
+- GreatVerification: **[NovaksIsCoding/GreatHouse](https://github.com/NovaksIsCoding/GreatHouse)**
+- Colaboro con: **[Guille] https://github.com/ImGuille20**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
