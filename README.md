@@ -1,4 +1,4 @@
-<img src="https://yt3.ggpht.com/koVB0lWITOZ9a_jMNPrRTOe6MX4lCimVdpoVVlPvhPj1z7JEaiMJ48OqISOQY_ocDdXlJza7AA=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj" width="820" height="300" />
+<img src="https://github.com/NovaksIsCoding/NovaksIsCoding/blob/main/killua-hunter-x-hunter.gif" width="820" height="300" />
 <h1 align="center"> ¡Hola Soy Novaks! </h1>
 
 <h3 align="center">Soy un developer en aprendizaje, actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
