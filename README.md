@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola Soy Novaks!</h1>
+<h1 align="center"> ¡Hola Soy Novaks! </h1>
 <h3 align="center">Soy un developer en aprendizaje, actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novaksiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="novaksiscoding" /> </p>
@@ -7,8 +7,10 @@
 
 <h3 align="center">Estoy trabajando como programador de varios bots, igualmente estoy ganando experiencia como programador de videojuegos.</h3>
 
-- Proyectos en los que trabajo:
-- GreatVerification (Bot de discord con diferentes funcionalidades): **https://discord.gg/F4VbQ2ephX**
+- Contribuciones:
+- GreatVerification (Bot de discord con diferentes funcionalidades, ): **?**
+- Fivme Scripts Creator: **?**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
