@@ -8,7 +8,7 @@
 <h3 align="center">Estoy trabajando como programador de varios bots, igualmente estoy ganando experiencia como programador de videojuegos.</h3>
 
 - Proyectos en los que trabajo:
-- GreatVerification (Bot de discord con diferentes funcionalidades
+- GreatVerification (Bot de discord con diferentes funcionalidades): **https://discord.gg/F4VbQ2ephX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
