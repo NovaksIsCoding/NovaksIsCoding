@@ -7,7 +7,7 @@
 
 - Puedes contactarme por medio de mi correo: **novakssteam@gmail.com**
 
-https://github-readme-stats.vercel.app/api?username=NovaksIsCoding
+(https://github-readme-stats.vercel.app/api?username=NovaksIsCoding)](https://github.com/NovaksIsCoding/github-readme-stats)
 
 <h3 align="center">Estoy trabajando como programador de varios bots, igualmente estoy ganando experiencia como programador de videojuegos.</h3>
 
