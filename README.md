@@ -1,7 +1,7 @@
 <img src="https://github.com/NovaksIsCoding/NovaksIsCoding/blob/main/killua-hunter-x-hunter.gif" width="820" height="300" />
-<h1 align="center"> ¡Hola Soy Novaks! </h1>
+<h1 align="center"> Hey ;) </h1>
 
-<h3 align="center">Soy un developer en aprendizaje, actualmente estoy trabajando en varios proyectos y ganando experiencia en varios lenguajes de programación</h3>
+<h3 align="center">Soy un ing. en sistemas en formación.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novaksiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="novaksiscoding" /> </p>
 
@@ -9,12 +9,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaksIsCoding)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">Estoy trabajando como programador de varios bots, igualmente estoy ganando experiencia como programador de videojuegos.</h3>
+<h3 align="center">Tengo multiples cualidades, contactáme para saber si puedo ayudarte con tu proyecto.</h3>
 
-<h3 align="ñeft">Contribuciones/Creaciones:</h3>
-
-- GreatVerification: **[NovaksIsCoding/GreatHouse](https://github.com/NovaksIsCoding/GreatHouse)**
-- Colaboro con: **[Guille](https://github.com/ImGuille20)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
