@@ -1,15 +1,13 @@
 <img src="https://github.com/NovaksIsCoding/NovaksIsCoding/blob/main/killua-hunter-x-hunter.gif" width="820" height="300" />
 <h1 align="center"> Hey ;) </h1>
 
-<h3 align="center">Soy un ing. en sistemas en formación.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novaksiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="novaksiscoding" /> </p>
 
-- Puedes contactarme por medio de mi correo: **novakssteam@gmail.com**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaksIsCoding)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">Tengo multiples cualidades, contactáme para saber si puedo ayudarte con tu proyecto.</h3>
+<h3 align="center">I like to code</h3>
 
 
 <h3 align="left">Connect with me:</h3>
